@@ -1,5 +1,5 @@
 # interactive gallery and blog website
-to create new blog pages, copy "blog1.html" and re-paste it with new file name.
+to create new blog pages, copy "blog1.html" and re-paste it with a new file name.
 after create new blog page redirect lines and link with them.
 yes i know this is a boring solution but this is my website and u dont have permission eheh.
 
