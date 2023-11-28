@@ -1,0 +1,2 @@
+# portfolyomsu
+evet.
